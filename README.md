@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Elyon+Santos!" />
 </h1>
 
-<h3 align="center">A backend developer 🇧🇷</h3>
+<h3 align="center">A fullstack developer 🇧🇷</h3>
 
 <br/>
 
 <div align="center">
-  ⚙️ Currently working on projects involving automation, local LLMs, and vector search 🧠
+  ⚙️ Currently working on projects involving automation, local LLMs, and web development 🧠
   <br>
 
-  💻 Constantly exploring Python, C, C++, Java, and AI tooling like llama.cpp 🤖
+  💻 Constantly exploring Python, C, C++, Java, JavaScript and AI tooling like llama.cpp 🤖
 </div>
 
 <div align="center">
