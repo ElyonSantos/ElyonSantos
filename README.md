@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElyonSantos.ElyonSantos" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Elyon+Santos!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+;+I'm+Elyon+Santos!" />
 </h1>
 
 <h3 align="center">A fullstack developer 🇧🇷</h3>
@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center">
-  ⚙️ Currently working on projects involving automation, local LLMs, and web development 🧠
+   Currently working on projects involving automation, local LLMs, and web development.
   <br>
 
-  💻 Constantly exploring Python, C, C++, Java, JavaScript and AI tooling like llama.cpp 🤖
+   Constantly exploring Python, C, C++, Java, JavaScript and AI tooling like llama.cpp.
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <hr/>
 
-<h2 align="center">🚀 My Knowledge 🚀</h2>
+<h2 align="center"> My Knowledge </h2>
 
 <br/>
 
@@ -55,13 +55,13 @@
 
   **Specialties:**
   <br>
-  🧠 Local AI with llama.cpp
+  Local AI with llama.cpp
   <br>
-  🔍 Embeddings and Vector Search
+  Embeddings and Vector Search
   <br>
-  ⚙️ Automation (Web and System)
+  Automation (Web and System)
   <br>
-  📱 GUI with Kivy
+  GUI with Kivy
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center"> GitHub Stats </h2>
 
 <br/>
 
