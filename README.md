@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ElyonSantos.ElyonSantos" />
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+;+I'm+Elyon+Santos!" />
 </h1>
 
-<h3 align="center">A fullstack developer 🇧🇷</h3>
+<h3 align="center">Full-stack Developer 🇧🇷</h3>
 
 <br/>
 
@@ -24,9 +22,6 @@
   </a>
   <a href="https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-homepage" target="_blank">
     <img src="https://img.shields.io/badge/Indeed-0000B2?style=for-the-badge&logo=indeed&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/elyon932/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
 
